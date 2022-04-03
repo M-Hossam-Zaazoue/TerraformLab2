@@ -1,0 +1,7 @@
+ec2_name = "HossamEC2"
+ami_id = "ami-04a50faf2a2ec1901"
+ec2_type = "t2.micro"
+key_pair_name = "HossamKeyPair"
+private_key_pair = "C:/Users/Moh98/.ssh/id_rsa"
+public_key_pair = "C:/Users/Moh98/.ssh/id_rsa.pub"
+sec_grp_name = "HossamSecGrp"
